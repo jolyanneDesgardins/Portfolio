@@ -12,7 +12,8 @@ Le concept du projet est que l'utilisateur à le contrôle presque total sur le 
 Télécommande interactive 
 
 L'idée est que le visiteur s'approche de notre station et soit intrigué par la télécommande qui a sur la table. Il va prendre la télécommande sur la table et va appuyer sur les boutons. Une fois que l'un des boutons est enclenché, une projection va être projeter au mur (ou sur une tv ). En résumer, à chaque bouton que le visiteur va enclenché une projection différente va être projeter. De plus avec Max nous allons créer un compteur de clic de boutons ce qui va faire en sorte que le système va pouvoir compter le nombre de fois que l'utlisateur change de poste. Donc nous allons savoir si l'utilisateur est entrain de se détendre ou non.
-![Une manette de télévision](OIP.jpg)
+![telecommande](https://github.com/lauriehoude/projet_final/assets/89647723/2ede1512-c341-40db-b119-a6903ad7feb3)
+
 
 ## Références
 
