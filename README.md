@@ -1,11 +1,15 @@
 # Télécommmande immersive
 
-## L'idée
 
-Pour l'idée du projet je pensais faire un atmosphère relaxant car l'humain ne prend pas souvent le temps de relaxer de prendre soin de lui car on est souvent trop pressé de faire les choses et au final on ne pense pas à apprecier les choses à leur juste valeur.
 ## Concept
 
 Le concept du projet est que l'utilisateur à le contrôle presque total sur le projet en effet, à l'aide d'une télécommande que nous allons modifié, celui-ci va pouvoir choisir en appuyant sur un bouton ce qui'il desire voir ou écouter comme projection. Il va avoir plusieur boutons et chaque bouton va être relier soit à une animation 3d ou du contenu vidéo. De plus, chaque univers va avoir sa piste sonore et son éclairage à lui seul. Pour résumer, c'est comme s'y lon reproduisait le concept d'une télévison.Le but ultime du projet est que l'utilisateur s'assoie sur le petit sofa, se détente et se laisse voyager à travers les différentes projections. Donc plus il va changé de projection plus il va amener la projection à crasher, car il ne prendre pas le temps de relaxer.
+
+
+## L'atmosphère
+
+Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En effet, je trouve que l'être humain ne prend pas assez le temps de relaxer de prendre soin de lui car il est souvent trop pressé de faire les choses et au final on ne pense pas à apprecier les choses à leur juste valeur.
+
 
 ## Technologies
 
