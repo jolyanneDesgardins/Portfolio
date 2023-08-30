@@ -15,14 +15,19 @@ Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En ef
 
 Télécommande interactive 
 
-L'idée est que le visiteur s'approche de notre station et soit intrigué par la télécommande qui a sur la table. Il va prendre la télécommande sur la table et va appuyer sur les boutons. Une fois que l'un des boutons est enclenché, une projection va être projeter au mur (ou sur une tv ). En résumer, à chaque bouton que le visiteur va enclenché une projection différente va être projeter. De plus avec Max nous allons créer un compteur de clic de boutons ce qui va faire en sorte que le système va pouvoir compter le nombre de fois que l'utlisateur change de poste. Donc nous allons savoir si l'utilisateur est entrain de se détendre ou non.
+L'idée est que le visiteur s'approche de notre station et soit intrigué par la télécommande qui a sur la table. Il va prendre la télécommande sur la table et va appuyer sur les boutons. Une fois que l'un des boutons est enclenché, une projection va être projeter au mur. J'aimerais que le projet soit dans le petit studio. En résumer, à chaque bouton que le visiteur va enclenché une projection différente va être projeter. De plus avec Max nous allons créer un compteur de clic de boutons ce qui va faire en sorte que le système va pouvoir compter le nombre de fois que l'utlisateur change de poste. Donc nous allons savoir si l'utilisateur est entrain de se détendre ou non.
 
 
 ### L'imteractivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
 
-## Références
+## Matériel
 
 - Télévision avec manette 
 - ![telecommande](https://github.com/lauriehoude/projet_final/assets/89647723/2ede1512-c341-40db-b119-a6903ad7feb3)
+- projecteur
+- kinect
+- fauteuil
+- 
+- 
