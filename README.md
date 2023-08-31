@@ -11,6 +11,7 @@ Le concept du projet est que l'utilisateur à le contrôle presque total sur le 
 
 Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En effet, je trouve que l'être humain ne prend pas assez le temps de relaxer de prendre soin de lui car il est souvent trop pressé de faire les choses et au final on ne pense pas à apprecier les choses à leur juste valeur.
 
+![image](https://github.com/lauriehoude/projet_final/assets/89647723/2209f672-0371-4df7-9df1-610965d56f1c)
 
 ## Technologies
 
