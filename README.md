@@ -27,7 +27,6 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 ## Matériel
 
 - Télévision avec manette 
-- ![telecommande](https://github.com/lauriehoude/projet_final/assets/89647723/2ede1512-c341-40db-b119-a6903ad7feb3)
 - projecteur
 - kinect
 - fauteuil
