@@ -4,7 +4,9 @@
 ## Concept
 
 Le concept du projet est que l'utilisateur à le contrôle presque total sur le projet en effet, à l'aide d'une télécommande que nous allons modifié, celui-ci va pouvoir choisir en appuyant sur un bouton ce qui'il desire voir ou écouter comme projection. Il va avoir plusieur boutons et chaque bouton va être relier soit à une animation 3d ou du contenu vidéo. De plus, chaque univers va avoir sa piste sonore et son éclairage à lui seul. Pour résumer, c'est comme si l'on reproduisait le concept d'une télévison.Le but ultime du projet est que l'utilisateur s'assoie sur le petit sofa, se détente et se laisse voyager à travers les différentes projections. Donc plus l'utilisateur va changé de projection, plus il va amener la projection à crasher, car il ne prendre pas le temps de relaxer.
+
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/c27de495-d9a7-45a2-9a89-b20792840421)
+
 (https://www.tknl.com/fr-expositions-faconner)
 
 ## L'atmosphère
