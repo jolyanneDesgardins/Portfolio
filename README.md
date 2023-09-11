@@ -34,3 +34,6 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 - fauteuil
 - 
 - 
+## Projets similaires
+
+https://youtu.be/dj2ouSFBUD0?si=24V84TvlsCNd8ame
