@@ -36,6 +36,8 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 - 
 ## Projets similaires
 
+AURAE de Sabrina Raté
+
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/4d60568b-8ac8-4891-b489-a73bbcb5b477)
 
 [![Sabrina rate](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=dj2ouSFBUD0) 
