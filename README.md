@@ -39,7 +39,7 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 **AURAE de Sabrina Raté**
 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/4d60568b-8ac8-4891-b489-a73bbcb5b477)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dj2ouSFBUD0?si=x__DZ7sD2qbyNojd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[![Sabrina rate](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=dj2ouSFBUD0) 
+
+[![Sabrina rate](http://img.youtube.com/vi/dj2ouSFBUD0/0.jpg)](https://www.youtube.com/watch?v=dj2ouSFBUD0) 
 
 https://youtu.be/dj2ouSFBUD0?si=24V84TvlsCNd8ame
