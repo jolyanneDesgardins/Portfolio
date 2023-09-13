@@ -61,3 +61,6 @@ https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 ## Rérférence sur les projections
 
+[![Sabrina rate](http://img.youtube.com/vi/aYeNG56FXnw/0.jpg)](https://www.youtube.com/watch?v=aYeNG56FXnw) 
+
+
