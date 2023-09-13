@@ -36,6 +36,11 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 - 
 ### Références
 
+
+## Rérférence sur la fonctionalité du projet
+
+
+
 **DISTRIBUTED MEMORIES de Sabrina Raté**
 
 
@@ -53,3 +58,6 @@ L'oeuvre DISTRIBUTED MEMORIES a été présenté à la galerie de la Gaîté Lyr
 
 Une autre installation intéressante est celle de Louis-Philippe Rondeau, **Luminal** qui a été exposé a`Arsenal Art Contemporain Montréal pour la 5e Biennale international d'art numérique. Le concept est très intéressant «Une arche de lumière apparaît dans l’obscurité : c’est un portail temporel. Lorsque nous franchissons ce seuil, notre réflexion projetée sur le mur adjacent semble déployée dans le temps grâce à la technique du slit-scan» expliqué par l'article du site de la Biennale  . L'aspect intéressant du projet est le rapport du visiteur avec l'oeuvre. En effet, je souhaite reproduire ce même rapport entre les deux. Je veux que les deux communique grâce aux  mouvement du corps humain et que l'oeuvre évolue ou change en fonction des mouvement ou de la présence humaine.
 https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
+
+## Rérférence sur les projections
+
