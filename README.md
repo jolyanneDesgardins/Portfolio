@@ -41,7 +41,7 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 
 
 [![Sabrina rate](http://img.youtube.com/vi/dj2ouSFBUD0/0.jpg)](https://www.youtube.com/watch?v=dj2ouSFBUD0) 
-[![Sabrina rate](https://youtu.be/8IeWIiVk88w/0.jpg)](https://www.youtube.com/embed/8IeWIiVk88w?si=F7jPEzLGUJ4MlTmq) 
+[![Sabrina rate](https://youtu.be/8IeWIiVk88w/F7jPEzLGUJ4MlTmq/0.jpg)](https://www.youtube.com/embed/8IeWIiVk88w?si=F7jPEzLGUJ4MlTmq) 
 
 
 L'oeuvre DISTRIBUTED MEMORIES a été présenté à la galerie de la Gaîté Lyrique à Paris. Cette exposition s'appelait Aurae. L'aspect intéressant de ce projet est que se sont les visiteurs qui contrôle la séquence de sons et d'images à l'aide d'un bouton en plein millieu de la salle.
