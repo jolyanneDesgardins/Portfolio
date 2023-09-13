@@ -40,7 +40,6 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 ## Rérférence sur la fonctionalité du projet
 
 
-
 **DISTRIBUTED MEMORIES de Sabrina Raté**
 
 
