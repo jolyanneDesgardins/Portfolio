@@ -46,7 +46,7 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 
 L'oeuvre DISTRIBUTED MEMORIES a été présenté à la galerie de la Gaîté Lyrique à Paris. Cette exposition s'appelait Aurae. L'aspect intéressant de ce projet est que se sont les visiteurs qui contrôle la séquence de sons et d'images à l'aide d'un bouton en plein millieu de la salle.
 
-## Luminal
+**Luminal**
 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/f161ae54-0007-47a8-907e-2ce8337c3d9f)
 
