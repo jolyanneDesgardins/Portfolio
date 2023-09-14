@@ -71,6 +71,7 @@ Cette oeuvre de François Vautier m'inspire beaucoup dans ma création de projec
 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/6703d654-f30d-4de5-9fbb-69a017e3c8bf)
 
+Dans cette oeuvre ce qui attire mon attention c'est le mouvement de la texture qui ressemeble à de l'eau. Dans le même ordre idée que **Recodage Entropia** , j'aime bien le côté abstrait de l'oeuvre je pense que si on mélange les deux concepts : destruction et texture ça peux devenir quelque chose de vraiment intéressant. 
 
 https://player.vimeo.com/video/221483723?h=0b39fc6f38
 
