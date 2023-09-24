@@ -32,7 +32,8 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
 
  Ce que j'aime vraiment de cette vidéo c'est les couleurs, les formes et les mouvements dans l'oeuvre. Cette vidéo ma donner pleins d'idées pour l'art que nous allons générer.
 
- 
+
+[![art génératif](http://img.youtube.com/vi/G2ptGCwDkVE/0.jpg)](https://www.youtube.com/watch?v=G2ptGCwDkVE) 
 
 ### L'interactivité
 
