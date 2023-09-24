@@ -1,11 +1,15 @@
-# Télécommmande immersive
+# Oeuvre générative
 
 
 ## Concept
 
-Le concept du projet est que l'utilisateur à le contrôle presque total sur le projet en effet, à l'aide d'une télécommande que nous allons modifié, celui-ci va pouvoir choisir en appuyant sur un bouton ce qui'il desire voir ou écouter comme projection. Il va avoir plusieur boutons et chaque bouton va être relier soit à une animation 3d ou du contenu vidéo. De plus, chaque univers va avoir sa piste sonore et son éclairage à lui seul. Pour résumer, c'est comme si l'on reproduisait le concept d'une télévison.Le but ultime du projet est que l'utilisateur s'assoie sur le petit sofa, se détente et se laisse voyager à travers les différentes projections. Donc plus l'utilisateur va changé de projection, plus il va amener la projection à crasher, car il ne prendre pas le temps de relaxer.
-
+Le concept du projet est que l'utilisateur à le contrôle presque total sur le projet en effet, quand le visiteur va commencer à marcher sur le cyclo, l'oeuvre va le suivre. En d'autres mots, le visiteur va générer du contenu avec déplacements de son corps. 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/c27de495-d9a7-45a2-9a89-b20792840421)
+
+**Évolution du thème**
+
+Initialement, je voulais que l'oeuvre soit géré par une télécommande. Cependant en réfléchissant, je trouvais que mon idée de base ne marchait pas avec le concept. En effet le but de mon oeuvre est de permettre aux visiteurs de lâcher leur téléphone et d'apprécier le moment présent et d'utliser une télécommande allait un peu à l'encontre de mon idée.
+
 
 (https://www.tknl.com/fr-expositions-faconner)
 
@@ -17,12 +21,11 @@ Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En ef
 
 ## Technologies
 
-Télécommande interactive 
-
-L'idée est que le visiteur s'approche de notre station et soit intrigué par la télécommande qui a sur la table. Il va prendre la télécommande sur la table et va appuyer sur les boutons. Une fois que l'un des boutons est enclenché, une projection va être projeter au mur. J'aimerais que le projet soit dans le petit studio. En résumer, à chaque bouton que le visiteur va enclenché une projection différente va être projeter. De plus avec Max nous allons créer un compteur de clic de boutons ce qui va faire en sorte que le système va pouvoir compter le nombre de fois que l'utlisateur change de poste. Donc nous allons savoir si l'utilisateur est entrain de se détendre ou non.
+Pour 
 
 
-### L'imteractivité
+
+### L'interactivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
 
