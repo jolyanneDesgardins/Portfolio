@@ -21,7 +21,7 @@ Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En ef
 
 ## Technologies
 
-Pour 
+Pour la technologie que nous allons utilisé, 
 
 
 
