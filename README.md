@@ -4,6 +4,7 @@
 ## Concept
 
 Le concept du projet est que l'utilisateur à le contrôle presque total sur le projet en effet, quand le visiteur va commencer à marcher sur le cyclo, l'oeuvre va le suivre. En d'autres mots, le visiteur va générer du contenu avec déplacements de son corps. 
+
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/c27de495-d9a7-45a2-9a89-b20792840421)
 
 **Évolution du thème**
@@ -21,8 +22,11 @@ Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En ef
 
 ## Technologies
 
-Pour la technologie que nous allons utilisé, 
+Pour la technologie que nous allons utilisé, nous allons utiliser la kinect pour faire la détection de présence et le logiciel Max pour aller récupérer la position du visiteur. En récupérant sa position, à l'aide de différents objets dans Max nous allons faire en sorte que l'oeuvre suit l'utilisateur et évolue avec lui. 
+https://www.youtube.com/watch?v=qtPi0JvmWbs
 
+
+[![art génératif](http://img.youtube.com/v=qtPi0JvmWbs/0.jpg)](https://www.youtube.com/watch?v=qtPi0JvmWbs) 
 
 
 ### L'interactivité
