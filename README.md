@@ -37,6 +37,11 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
 
 Dans celle-ci ce que j'ai le plus aimé c'est vraiment le contact entre l'oeuvre et l'utilisateur. En effet, avec ses mains il bouge les composante flottante de l'oeuvre.
 Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuitif pour le visteur. Lorsqu'il va se déplacer sur le cyclo il ne sera pas vraiment qu'il doit bouger avec ses mains les composantes. Un autre défi est devoir gérer les mains sales de tout le monde sur le cyclo ahahahahh
+
+
+[![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
+
+
 ### L'interactivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
