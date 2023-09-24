@@ -41,6 +41,11 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
+Comment faire ?
+
+[![art génératif](http://img.youtube.com/vi/xODS0pZ6CEo/0.jpg)](https://www.youtube.com/watch?v=xODS0pZ6CEo) 
+
+J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des particules à l'aide d'un logiciel TouchDesigner que je connais vraiment pas lol mais la personne explique vraiment bien comment faire.
 
 ### L'interactivité
 
