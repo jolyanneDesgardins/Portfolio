@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
  
  son lien Github https://github.com/whitegreen/GenerativeArt
 
+ Ce que j'aime vraiment de cette vidéo c'est les couleurs, les formes et les mouvements dans l'oeuvre. Cette vidéo ma donner pleins d'idées pour l'art que nous allons générer.
+
+ 
+
 ### L'interactivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
