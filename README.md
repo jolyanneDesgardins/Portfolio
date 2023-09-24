@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
 
 
 [![art génératif](http://img.youtube.com/vi/qtPi0JvmWbs/0.jpg)](https://www.youtube.com/watch?v=qtPi0JvmWbs) 
-
+ 
+ son lien Github https://github.com/whitegreen/GenerativeArt
 
 ### L'interactivité
 
