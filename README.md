@@ -18,13 +18,13 @@ Initialement, je voulais que l'oeuvre soit géré par une télécommande. Cepend
 
 (https://www.tknl.com/fr-expositions-faconner)
 
-## L'atmosphère
+## Ambiance
 
 Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En effet, je trouve que l'être humain ne prend pas assez le temps de relaxer de prendre soin de lui car il est souvent trop pressé de faire les choses et au final on ne pense pas à apprecier les choses à leur juste valeur.
 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/2209f672-0371-4df7-9df1-610965d56f1c)
 
-## Technologies
+## Inspirations
 
 Pour la technologie que nous allons utilisé, nous allons utiliser la kinect pour faire la détection de présence et le logiciel Max pour aller récupérer la position du visiteur. En récupérant sa position, à l'aide de différents objets dans Max nous allons faire en sorte que l'oeuvre suit l'utilisateur et évolue avec lui. 
 https://www.youtube.com/watch?v=qtPi0JvmWbs
