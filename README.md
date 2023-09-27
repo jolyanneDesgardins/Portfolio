@@ -18,11 +18,6 @@ Initialement, je voulais que l'oeuvre soit géré par une télécommande. Cepend
 
 (https://www.tknl.com/fr-expositions-faconner)
 
-## Ambiance
-
-Pour l'idée du projet je pensais faire un atmosphère relaxant envoutant. En effet, je trouve que l'être humain ne prend pas assez le temps de relaxer de prendre soin de lui car il est souvent trop pressé de faire les choses et au final on ne pense pas à apprecier les choses à leur juste valeur.
-
-![image](https://github.com/lauriehoude/projet_final/assets/89647723/2209f672-0371-4df7-9df1-610965d56f1c)
 
 ## Inspirations
 
@@ -45,9 +40,6 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
-Comment faire ?
-
-[![art génératif](http://img.youtube.com/vi/xODS0pZ6CEo/0.jpg)](https://www.youtube.com/watch?v=xODS0pZ6CEo) 
 
 J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des particules à l'aide d'un logiciel TouchDesigner que je connais vraiment pas lol mais la personne explique vraiment bien comment faire.
 
@@ -59,6 +51,13 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 ## Plan du studio 
 
 ![cyclo drawio](https://github.com/lauriehoude/projet_final/assets/89647723/3ea8e7c9-a6bd-4895-a532-f7aea9886f7f)
+
+## Technologie
+
+
+Comment faire ?
+
+[![art génératif](http://img.youtube.com/vi/xODS0pZ6CEo/0.jpg)](https://www.youtube.com/watch?v=xODS0pZ6CEo) 
 
 ## Matériel
 
