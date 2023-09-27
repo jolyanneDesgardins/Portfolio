@@ -7,6 +7,10 @@ Le concept du projet est que l'utilisateur à le contrôle presque total sur le 
 
 ![image](https://github.com/lauriehoude/projet_final/assets/89647723/c27de495-d9a7-45a2-9a89-b20792840421)
 
+## Le thème 
+
+Le thème est basé sur le bien-être de l'être humain. On veut créer une oeuvre qui permet de se détendre et d'apprécier le moment présent.
+
 **Évolution du thème**
 
 Initialement, je voulais que l'oeuvre soit géré par une télécommande. Cependant en réfléchissant, je trouvais que mon idée de base ne marchait pas avec le concept. En effet le but de mon oeuvre est de permettre aux visiteurs de lâcher leur téléphone et d'apprécier le moment présent et d'utliser une télécommande allait un peu à l'encontre de mon idée.
