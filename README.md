@@ -41,7 +41,7 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
 
-J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des particules à l'aide d'un logiciel TouchDesigner que je connais vraiment pas lol mais la personne explique vraiment bien comment faire.
+
 
 
 [![art génératif](http://img.youtube.com/vi/zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1/0.jpg)](https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1)
@@ -59,6 +59,8 @@ Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou qu
 
 
 Comment faire ?
+
+J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des particules à l'aide d'un logiciel TouchDesigner que je connais vraiment pas lol mais la personne explique vraiment bien comment faire.
 
 [![art génératif](http://img.youtube.com/vi/xODS0pZ6CEo/0.jpg)](https://www.youtube.com/watch?v=xODS0pZ6CEo) 
 
