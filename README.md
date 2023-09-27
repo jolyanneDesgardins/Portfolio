@@ -40,8 +40,14 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
-d
 
+**Luminal**
+
+![image](https://github.com/lauriehoude/projet_final/assets/89647723/f161ae54-0007-47a8-907e-2ce8337c3d9f)
+
+
+Une autre installation intéressante est celle de Louis-Philippe Rondeau, **Luminal** qui a été exposé a`Arsenal Art Contemporain Montréal pour la 5e Biennale international d'art numérique. Le concept est très intéressant «Une arche de lumière apparaît dans l’obscurité : c’est un portail temporel. Lorsque nous franchissons ce seuil, notre réflexion projetée sur le mur adjacent semble déployée dans le temps grâce à la technique du slit-scan» expliqué par l'article du site de la Biennale  . L'aspect intéressant du projet est le rapport du visiteur avec l'oeuvre. En effet, je souhaite reproduire ce même rapport entre les deux. Je veux que les deux communique grâce aux  mouvement du corps humain et que l'oeuvre évolue ou change en fonction des mouvement ou de la présence humaine.
+https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 
 [![art génératif](http://img.youtube.com/vi/zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1/0.jpg)](https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1)
@@ -72,29 +78,9 @@ J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des par
 - fauteuil
 - 
 - 
-### Références
-
-
-## Rérférence sur la fonctionalité du projet
-
-
-**DISTRIBUTED MEMORIES de Sabrina Raté**
 
 
 
-[![Sabrina rate](http://img.youtube.com/vi/dj2ouSFBUD0/0.jpg)](https://www.youtube.com/watch?v=dj2ouSFBUD0) 
-
-
-
-L'oeuvre DISTRIBUTED MEMORIES a été présenté à la galerie de la Gaîté Lyrique à Paris. Cette exposition s'appelait Aurae. L'aspect intéressant de ce projet est que se sont les visiteurs qui contrôle la séquence de sons et d'images à l'aide d'un bouton en plein millieu de la salle. https://sabrinaratte.com/filter/INSTALLATIONS/DISTRIBUTED-MEMORIES-2022
-
-**Luminal**
-
-![image](https://github.com/lauriehoude/projet_final/assets/89647723/f161ae54-0007-47a8-907e-2ce8337c3d9f)
-
-
-Une autre installation intéressante est celle de Louis-Philippe Rondeau, **Luminal** qui a été exposé a`Arsenal Art Contemporain Montréal pour la 5e Biennale international d'art numérique. Le concept est très intéressant «Une arche de lumière apparaît dans l’obscurité : c’est un portail temporel. Lorsque nous franchissons ce seuil, notre réflexion projetée sur le mur adjacent semble déployée dans le temps grâce à la technique du slit-scan» expliqué par l'article du site de la Biennale  . L'aspect intéressant du projet est le rapport du visiteur avec l'oeuvre. En effet, je souhaite reproduire ce même rapport entre les deux. Je veux que les deux communique grâce aux  mouvement du corps humain et que l'oeuvre évolue ou change en fonction des mouvement ou de la présence humaine.
-https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 ## Rérférence sur les projections
 
