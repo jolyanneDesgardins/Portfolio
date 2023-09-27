@@ -51,6 +51,11 @@ J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des par
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
 
+
+## Plan du studio 
+
+![cyclo drawio](https://github.com/lauriehoude/projet_final/assets/89647723/3ea8e7c9-a6bd-4895-a532-f7aea9886f7f)
+
 ## Matériel
 
 - Télévision avec manette 
