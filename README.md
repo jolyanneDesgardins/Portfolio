@@ -80,23 +80,5 @@ J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des par
 - 
 
 
+### Défi
 
-
-## Rérférence sur les projections
-
-**RECODAGE ENTROPIA**
-
-[![Sabrina rate](http://img.youtube.com/vi/aYeNG56FXnw/0.jpg)](https://www.youtube.com/watch?v=aYeNG56FXnw) 
-
-
-Cette oeuvre de François Vautier m'inspire beaucoup dans ma création de projection d'animation 3D. En effet, j'aime bien le concept un peu abstrait et décontruit de cette oeuvre. Je trouve que cette façon de modéliser et d'animer très artistique. Je pense que cette idée marcherait, car elle permetterait de garder l'attention du visteur dans le but qu'il utilise moins son téléphone (notre idée principal). En considérant la complexitude du cerveau, on comprend que le cerveau associ des images, des formes et des objects à des éléments du réel très rapidement, mais lorsqu'on déconstruit des éléments de la vie, le cerveau prend plus de temps à comprendre cette information. En résumer, déconstruire des éléments permetterait des garder l'attention des visiteurs plus lomgtemps que le cerveau va chercher à comprendre et a identifier ce qu'il voit en reliant chaque éléments qu'il voit à des trucs qu'il a déjà vu ce qui prend plus de temps.
-
-**BIOMES - 2017**
-
-![image](https://github.com/lauriehoude/projet_final/assets/89647723/6703d654-f30d-4de5-9fbb-69a017e3c8bf)
-
-Dans cette oeuvre ce qui attire mon attention c'est le mouvement de la texture qui ressemeble à de l'eau. Dans le même ordre idée que **Recodage Entropia** , j'aime bien le côté abstrait de l'oeuvre je pense que si on mélange les deux concepts : destruction et texture ça peux devenir quelque chose de vraiment intéressant. 
-
-https://player.vimeo.com/video/221483723?h=0b39fc6f38
-
-https://sabrinaratte.com/BIOMES-2017
