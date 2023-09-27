@@ -43,6 +43,9 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des particules à l'aide d'un logiciel TouchDesigner que je connais vraiment pas lol mais la personne explique vraiment bien comment faire.
 
+
+[![art génératif](http://img.youtube.com/vi/zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1/0.jpg)](https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1)
+
 ### L'interactivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
