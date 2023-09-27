@@ -40,7 +40,7 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
-
+d
 
 
 
