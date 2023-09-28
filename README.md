@@ -52,6 +52,7 @@ https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1
 
+
 Pour cette dernière vidéo ce qui m'intéressait le plus c'est le son de l'oeuvre. Je trouve que sa marche parfaitement avec le thème du bien-être et de se détendre. Je pense que se serait une bonne idée d'essayer de reproduire un son calmant et apaisant à la fois. Peux être pas exactement, car parfois je trouve qu'il a trop de sons qui font penser à la nature et mon oeuvre ce n'est pas vraiment une reproduction de la nature. Par contre, je pense qu'il serait intéressant d'une manière comme une autre d'intégrer le bien être que la nature produit à travers l'oeuvre.
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
