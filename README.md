@@ -82,9 +82,9 @@ J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des par
 
 ### Défi
 
--Gérer la détection de plusieurs personnes en même temps
--Contrôler les souliers et le cyclo
--La gestion des mains sur le cyclo
--Apprendre un nouveau logiciel 
--Utiliser Max
+- Gérer la détection de plusieurs personnes en même temps
+- Contrôler les souliers et le cyclo
+- La gestion des mains sur le cyclo
+- Apprendre un nouveau logiciel 
+- Utiliser Max
 
