@@ -24,7 +24,7 @@ Initialement, je voulais que l'oeuvre soit géré par une télécommande. Cepend
 Pour la technologie que nous allons utilisé, nous allons utiliser la kinect pour faire la détection de présence et le logiciel Max pour aller récupérer la position du visiteur. En récupérant sa position, à l'aide de différents objets dans Max nous allons faire en sorte que l'oeuvre suit l'utilisateur et évolue avec lui. 
 https://www.youtube.com/watch?v=qtPi0JvmWbs
 
-#### inspiration 1
+#### Inspiration 1
 
 
 [![art génératif](http://img.youtube.com/vi/qtPi0JvmWbs/0.jpg)](https://www.youtube.com/watch?v=qtPi0JvmWbs) 
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
 
  Ce que j'aime vraiment de cette vidéo c'est les couleurs, les formes et les mouvements dans l'oeuvre. Cette vidéo ma donner pleins d'idées pour l'art que nous allons générer.
 
-#### inspiration 2
+#### Inspiration 2
 
 
 [![art génératif](http://img.youtube.com/vi/G2ptGCwDkVE/0.jpg)](https://www.youtube.com/watch?v=G2ptGCwDkVE) 
@@ -42,12 +42,12 @@ Dans celle-ci ce que j'ai le plus aimé c'est vraiment le contact entre l'oeuvre
 Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuitif pour le visteur. Lorsqu'il va se déplacer sur le cyclo il ne sera pas vraiment qu'il doit bouger avec ses mains les composantes. Un autre défi est devoir gérer les mains sales de tout le monde sur le cyclo ahahahahh.
 
 
-#### inspiration 3
+#### Inspiration 3
 
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
 
-#### inspiration 4
+#### Inspiration 4
 
 
 **Luminal**
@@ -59,13 +59,13 @@ Une autre installation intéressante est celle de Louis-Philippe Rondeau, **Lumi
 https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 
-#### inspiration 5
+#### Inspiration 5
 
 
 https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1
 
 
-#### inspiration 6
+#### Inspiration 6
 
 
 Pour cette dernière vidéo ce qui m'intéressait le plus c'est le son de l'oeuvre. Je trouve que sa marche parfaitement avec le thème du bien-être et de se détendre. Je pense que se serait une bonne idée d'essayer de reproduire un son calmant et apaisant à la fois. Peux être pas exactement, car parfois je trouve qu'il a trop de sons qui font penser à la nature et mon oeuvre ce n'est pas vraiment une reproduction de la nature. Par contre, je pense qu'il serait intéressant d'une manière comme une autre d'intégrer le bien être que la nature produit à travers l'oeuvre.
