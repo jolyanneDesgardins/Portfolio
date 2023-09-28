@@ -57,6 +57,8 @@ Pour cette dernière vidéo ce qui m'intéressait le plus c'est le son de l'oeuv
 
 [![art génératif](http://img.youtube.com/vi/SNSRjwzXKRI/0.jpg)](https://www.youtube.com/watch?v=SNSRjwzXKRI) 
 
+
+
 ### L'interactivité
 
 Pour l'interactivité, il y a plusieurs aspects que j'aimerais développer ou que je suis toujours entrain de réfléchir. Premièrement, quand le visiteur va s'assoeir sur le sofa je veux que la kinect le détecte et sa changerait l'éclairage. Deuxièment, j'avais pensé à faire joué une musique d'ambiance ce qui permetterait d'attirer des gens vers notre projet et à la minute que celui-ci s'assoie la musique s'arrêtera et l'éclairage éteindra.
