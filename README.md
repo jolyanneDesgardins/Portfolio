@@ -33,7 +33,10 @@ https://www.youtube.com/watch?v=qtPi0JvmWbs
 
  Ce que j'aime vraiment de cette vidéo c'est les couleurs, les formes et les mouvements dans l'oeuvre. Cette vidéo ma donner pleins d'idées pour l'art que nous allons générer.
 
+
+
 #### Inspiration 2
+
 
 
 [![art génératif](http://img.youtube.com/vi/G2ptGCwDkVE/0.jpg)](https://www.youtube.com/watch?v=G2ptGCwDkVE) 
@@ -44,10 +47,15 @@ Par contre, le défi avec ce style d'oeuvre c'est que ce n'est pas très intuiti
 
 #### Inspiration 3
 
+
+
 [![art génératif](http://img.youtube.com/vi/rtRscfX8O44/0.jpg)](https://www.youtube.com/watch?v=rtRscfX8O44) 
 
 
+
+
 #### Inspiration 4
+
 
 
 **Luminal**
@@ -59,10 +67,15 @@ Une autre installation intéressante est celle de Louis-Philippe Rondeau, **Lumi
 https://www.elektramontreal.ca/bian2021-louisphilippe-rondeau
 
 
+
+
 #### Inspiration 5
 
 
+
 https://www.youtube.com/watch?v=zP_paWcXkaE&list=PLbLdd1fdNg5yp0x3_oRWeBur0FVX8PvFH&index=1
+
+
 
 
 #### Inspiration 6
