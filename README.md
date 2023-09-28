@@ -85,7 +85,7 @@ J'ai trouvé cette vidéo sur Youtube qui montre comment faire générer des par
 - 
 
 
-### Défi
+### Les défis
 
 - Gérer la détection de plusieurs personnes en même temps
   
