@@ -2,7 +2,7 @@
 
 
 ## Présentation projet
-Histoire d'un requin qui part à la recherche de cadeau pour la fête de son amis corgi.
+Histoire d'un requin qui part à la recherche d'ami pour la fête de son ami corgi.
 
 ## Description
 
