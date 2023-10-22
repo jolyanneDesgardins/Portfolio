@@ -13,6 +13,8 @@ le requin arrive dans l'ocean et la tout est noir, puis tout tout s'illumine le 
 le requin va devoir se promener dans l'océan pour essayer de trouver des objets , le requin va etre illuminer pour simuler la bonne vu des requin dans l'Eau et aussi si le requin s'approche d'un cadeau le son va etre du coté d'ou est l'objet.Apres avoir récupérer les objects. Le requin va pouvoir decider quel cadeau il va donner a son amis Corgie.
 
 ## carte du projet 
+<img src="media/carte.png"
+   />
 
 ## schémas de structure narative
 <img src="media/schemas_programmation.drawio.png"
