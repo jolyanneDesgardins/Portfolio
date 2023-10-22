@@ -15,5 +15,5 @@ le requin va devoir se promener dans l'océan pour essayer de trouver des objets
 ## carte du projet 
 
 ## schémas de structure narative
-
+![]("media/schemas_programation.drawio.png")
 
