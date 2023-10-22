@@ -15,6 +15,7 @@ le requin va devoir se promener dans l'océan pour essayer de trouver des objets
 ## carte du projet 
 
 ## schémas de structure narative
-![](/media
-/schemas_programmation.drawio.png)
+<img src="media/schemas_programmation.drawio.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
