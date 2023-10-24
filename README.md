@@ -29,4 +29,7 @@ Jolyshark , une petit requine qui est attendu pour la fête de son amie Corgi , 
 ## schémas de structure narative
 <img src="media/schemas_programmation.drawio.png"
    />
+## Séparation des taches
 
+
+ [Trello](https://trello.com/b/JYAyEVmf/corgirequin)
